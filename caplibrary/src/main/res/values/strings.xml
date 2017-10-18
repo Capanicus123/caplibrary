@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CapLibrary</string>
+    <string translatable="false" name="rajdhani_bold">rajdhani_bold.ttf</string>
+    <string translatable="false" name="rajdhani_medium">rajdhani_medium.ttf</string>
+    <string translatable="false" name="rajdhani_regular">rajdhani_regular.ttf</string>
+
+</resources>
